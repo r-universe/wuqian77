@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ChIPtest"]
+	path = ChIPtest
+	url = https://github.com/cran/ChIPtest
+	shallow = true
+	registered = true
+[submodule "TrialSize"]
+	path = TrialSize
+	url = https://github.com/cran/TrialSize
+	shallow = true
+	registered = true
