@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ChIPtest"]
-	path = ChIPtest
-	url = https://github.com/cran/ChIPtest
 [submodule "TrialSize"]
 	path = TrialSize
 	url = https://github.com/cran/TrialSize
